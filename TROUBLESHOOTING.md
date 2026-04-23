@@ -33,4 +33,8 @@ Open WebUI has a default timeout of 5 minutes for Ollama to finish generating th
    - In the Open WebUI, navigate to "Settings" > "General".
    - Confirm that the Ollama Server URL is correctly set to `[OLLAMA URL]` (e.g., `http://localhost:11434`).
 
+2. **Test Reachability from Host**:
+   - Run `curl http://localhost:11434/api/tags` on the host running Ollama.
+   - A valid JSON response confirms that Ollama is reachable before troubleshooting WebUI networking.
+
 By following these enhanced troubleshooting steps, connection issues should be effectively resolved. For further assistance or queries, feel free to reach out to us on our community Discord.
