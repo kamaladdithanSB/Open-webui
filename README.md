@@ -188,6 +188,15 @@ If you are setting up Open WebUI on Windows with Python 3.13, you may encounter 
 pip install audioop-lts
 ```
 
+#### 2. PowerShell Blocks Virtual Environment Activation
+**Error:** Running `Activate.ps1` fails with a script execution policy error.
+**Cause:** PowerShell's default execution policy can block local script execution.
+**Solution:** Allow scripts for the current shell session, then activate your environment:
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+& .\.venv\Scripts\Activate.ps1
+```
+
 #### Open WebUI: Server Connection Error
 
 If you're experiencing connection issues, it’s often due to the WebUI docker container not being able to reach the Ollama server at 127.0.0.1:11434 (host.docker.internal:11434) inside the container . Use the `--network=host` flag in your docker command to resolve this. Note that the port changes from 3000 to 8080, resulting in the link: `http://localhost:8080`.
