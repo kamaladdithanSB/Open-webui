@@ -175,6 +175,7 @@ We offer various installation alternatives, including non-Docker native installa
 ### Troubleshooting
 
 Encountering connection issues? Our [Open WebUI Documentation](https://docs.openwebui.com/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Open WebUI Discord](https://discord.gg/5rJgQTnV4s).
+For project-local guidance, you can also check [TROUBLESHOOTING.md](./TROUBLESHOOTING.md).
 
 ### Windows & Python 3.13+ Troubleshooting
 
