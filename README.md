@@ -186,6 +186,7 @@ If you are setting up Open WebUI on Windows with Python 3.13, you may encounter 
 **Solution:** Install the compatibility layer by running:
 ```powershell
 pip install audioop-lts
+```
 
 #### Open WebUI: Server Connection Error
 
