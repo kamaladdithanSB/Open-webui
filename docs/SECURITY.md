@@ -49,8 +49,8 @@ We appreciate the community's interest in identifying potential vulnerabilities.
 
 Along with the PoC, you must provide **either**:
 
-1. **A patch/PR**, **or**
-2. **a remediation plan** ("actionable steps") that a maintainer can apply without guesswork.
+- **A patch/PR**, **or**
+- **a remediation plan** ("actionable steps") that a maintainer can apply without guesswork.
 
 Your remediation guidance can include, for example:
 
