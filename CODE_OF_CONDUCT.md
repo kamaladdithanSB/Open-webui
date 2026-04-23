@@ -19,7 +19,7 @@ This is a community where **respect and professionalism are mandatory.** Violati
 Examples of behavior that contribute to a positive and professional community include:
 
 - **Respecting others.** Be considerate, listen actively, and engage with empathy toward others' viewpoints and experiences.
-- **Constructive feedback.** Provide actionable, thoughtful, and respectful feedback that helps improve the project and encourages collaboration. Avoid unproductive negativity or hypercriticism.
+- **Constructive feedback.** Provide actionable, thoughtful, and respectful feedback that helps improve the project and encourages collaboration. Avoid unproductive negativity or hyper-criticism.
 - **Recognizing volunteer contributions.** Appreciate that contributors dedicate their free time and resources selflessly. Approach them with gratitude and patience.
 - **Focusing on shared goals.** Collaborate in ways that prioritize the health, success, and sustainability of the community over individual agendas.
 
